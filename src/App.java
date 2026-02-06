@@ -3,7 +3,10 @@ public class App {
         int a = 20;
         int b = 4;
         System.out.println(add(a,b)+"です");
-        System.out.println(sub(a,b)+"ですよう");
+        
+  
+        System.out.println(add(a,b)+"だぞ");
+        
         System.out.println(multi(a,b));
         System.out.println(div(a,b));
     }
